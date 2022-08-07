@@ -1,7 +1,7 @@
 export function Lesson() {
   return (
     <div>
-      <h1>hellow world</h1>
+      <h1>Lesson</h1>
     </div>
   )
 }
